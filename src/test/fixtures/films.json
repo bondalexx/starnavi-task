@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "A New Hope", "starships": [12, 22, 5] },
+  { "id": 2, "title": "The Empire Strikes Back", "starships": [22] }
+]

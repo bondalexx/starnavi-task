@@ -1,0 +1,5 @@
+[
+  { "id": 12, "name": "X-wing", "pilots": [1] },
+  { "id": 22, "name": "Imperial shuttle", "pilots": [1, 5] },
+  { "id": 5, "name": "Executor", "pilots": [] }
+]
